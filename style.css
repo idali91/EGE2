@@ -7,9 +7,7 @@ body{
 
 p.marca{
     text-align: center;
-    display: block;
-    width: 100px;
-    height: 100px;
+    
 }
 /* fondo enlaces */
 p.color{
@@ -21,7 +19,6 @@ p.color{
 
 img.empresa1{
     float: left;
-    display: block;
     
 }
 /* color section 1 */
@@ -33,9 +30,6 @@ section.primera{
 
 img.imagen2{
     float: right;
-    width: 200px;
-    height: 200px;
-    display: block;
     
 }
 
