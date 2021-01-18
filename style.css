@@ -1,0 +1,82 @@
+/* Color de fondo */
+body{
+    background-color: antiquewhite;
+}
+
+/* Posicionamiento marca */
+
+p.marca{
+    text-align: center;
+    display: block;
+    width: 100px;
+    height: 100px;
+}
+/* fondo enlaces */
+p.color{
+    background-color: rgba(81, 125, 207, 0.89);
+    text-align: center;
+}
+
+/* Posicionamiento imagen1 */
+
+img.empresa1{
+    float: left;
+    display: block;
+    
+}
+/* color section 1 */
+section.primera{
+    background-color: white;
+}
+
+/* Posicionamiento imagen2 */
+
+img.imagen2{
+    float: right;
+    width: 200px;
+    height: 200px;
+    display: block;
+    
+}
+
+/* color section 2 */
+section.segunda{
+    background-color:rgba(81, 125, 207, 0.89) ;
+}
+p.montar{
+    clear: both;
+}
+
+/* Color div */
+
+div.azul{
+    background-color: blue;
+}
+div.rojo{
+    background-color: red;
+}
+
+/* color letras parrafo */
+
+p.letra1{
+    color: blue;
+}
+p.letra2{
+    color: red;
+}
+
+/* PAgina servicios */
+
+section.servicios{
+    background-color: greenyellow;
+}
+
+ul.azul{
+    color: blue;
+}
+
+h3.azul{
+    color: blue;
+    font-style: bold;
+}
+
